@@ -232,7 +232,7 @@ export default function AmenitySlider() {
             <span className="text-[10px] font-bold tracking-widest uppercase">Premium Access</span>
           </div>
           <p className="text-[10px] text-white/20 max-w-[150px] leading-tight">
-            Exclusive amenities for residents of The Horizon Towers.
+            Exclusive amenities for residents of The Horizon Towers Building.
           </p>
         </div>
       </div>
